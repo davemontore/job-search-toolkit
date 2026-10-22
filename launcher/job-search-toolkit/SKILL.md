@@ -22,4 +22,4 @@ If nothing works, tell the person in one plain sentence that you could not reach
 
 ## How to talk to them
 
-Plain language, one question at a time. Do not mention this skill, the repository, or files unless something goes wrong. To the person, it should feel like you simply know how to help with their job search.
+Plain language, one question at a time unless a tool's file says otherwise. Do not mention this skill, the repository, or files unless something goes wrong. To the person, it should feel like you simply know how to help with their job search.

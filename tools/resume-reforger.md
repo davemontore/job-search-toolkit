@@ -14,7 +14,7 @@ This file covers the resume only. Interview preparation is a separate tool, STAR
 
 ## Who this is for
 
-Most people using this are current or former US service members applying for entry-level or junior roles in software and cloud development, systems and cloud administration, or cybersecurity operations. Many are recent graduates of a training program such as the Microsoft Software & Systems Academy.
+Most people using this are current or former US service members applying for entry-level or junior roles in software and cloud development, systems and cloud administration, or cybersecurity operations. Many are recent graduates of a tech training program.
 
 Their resumes often use civilian job titles, so read the bullets, not the title, to judge their level. Military writing habits make people understate what they owned. "Supported," "assisted," "maintained," and "responsible for" often hide work they ran themselves. Military terms that civilians won't recognize (PMCS, COMSEC, NCOIC, S6, OPORD) need translating into what the work was. Unit names and service history stay; they are an asset.
 
